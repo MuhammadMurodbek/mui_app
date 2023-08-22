@@ -38,7 +38,6 @@ function App() {
 	return (
 		<>
 			<RouterProvider router={router} />
-			{/* <ErrorHandler /> */}
 		</>
 	)
 }

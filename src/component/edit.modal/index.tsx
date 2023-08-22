@@ -107,9 +107,11 @@ export default function EditModalComponent({
 											size="small"
 											variant="outlined"
 										>
-											<MenuItem value={0}>Ten</MenuItem>
-											<MenuItem value={1}>Twenty</MenuItem>
-											<MenuItem value={2}>Thirty</MenuItem>
+											<MenuItem value={0}>New</MenuItem>
+											<MenuItem value={1}>Reading</MenuItem>
+											<MenuItem value={2}>
+												Finished
+											</MenuItem>
 										</Select>
 									)}
 								/>
