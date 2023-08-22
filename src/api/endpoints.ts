@@ -1,5 +1,5 @@
 export const urls = {
-  signup: "/signup",
-  variations: "/myself",
-  books: "/books",
-};
+	signup: '/signup',
+	variations: '/myself',
+	books: '/books'
+}

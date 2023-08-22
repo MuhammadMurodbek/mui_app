@@ -1,5 +1,5 @@
-import ResponsiveAppBar from "./header";
+import ResponsiveAppBar from './header'
 const Appbar = () => {
-  return <ResponsiveAppBar></ResponsiveAppBar>;
-};
-export default Appbar;
+	return <ResponsiveAppBar></ResponsiveAppBar>
+}
+export default Appbar
